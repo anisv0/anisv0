@@ -4,7 +4,7 @@
 
 ###
 
-<h1 data-importer="text" align="left">Hello World👋! it's Ana Valle</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=TIMES+NEW+ROMAN&pause=1000&color=740007&width=435&lines=Hello+World%2C+it's+Ana+Valle!)](https://git.io/typing-svg)
 
 ###
 
